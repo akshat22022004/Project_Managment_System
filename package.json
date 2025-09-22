@@ -1,0 +1,24 @@
+{
+  "name": "project-managment-system",
+  "version": "1.0.0",
+  "description": "a project managment application",
+  "keywords": [
+    "Backend",
+    "Api"
+  ],
+  "homepage": "https://github.com/akshat22022004/Project_Managment_System#readme",
+  "bugs": {
+    "url": "https://github.com/akshat22022004/Project_Managment_System/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akshat22022004/Project_Managment_System.git"
+  },
+  "license": "ISC",
+  "author": "Akshat Singh",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  }
+}
