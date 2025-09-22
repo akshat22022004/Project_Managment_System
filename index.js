@@ -1,1 +1,1 @@
-console.log("hello world");
+console.log("Start of an awesome project");
